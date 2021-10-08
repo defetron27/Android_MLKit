@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "600420357062",
+    "firebase_url": "https://mlkit-e505f.firebaseio.com",
+    "project_id": "mlkit-e505f",
+    "storage_bucket": "mlkit-e505f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600420357062:android:27cc76671b864664",
+        "android_client_info": {
+          "package_name": "com.deffe.max.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600420357062-epn6p0r4t4k70m30jt1ni8d2kvv3onor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deffe.max.mlkit",
+            "certificate_hash": "c1fdf431c64b962bd1bf42ddd4e7255d01d76f6a"
+          }
+        },
+        {
+          "client_id": "600420357062-r3jtnje91uq9ffbhmcq13s1jrhtrohek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsimwPKYDBRU4y_4I6rN2U5d14KomxWE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600420357062-r3jtnje91uq9ffbhmcq13s1jrhtrohek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
